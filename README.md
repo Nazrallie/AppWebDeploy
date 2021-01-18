@@ -23,7 +23,15 @@
 
 16 - Les 3 environnements sont Production, Preview et Development. Avoir plusieurs environnements permet de faire des tests sur les environnements de développement et de preview sans toucher à la version de production fournie aux utilisateurs du site.
 
+17 - https://github.com/Nazrallie/AppWebDeploy
 
+18 - app-web-dep-git-master.nazrallie.vercel.app
+
+19 - Une pull-request est une demande d'ajout de son code à un code plus large. Cela permet à plusieurs personnes de travailler en même temps sur un même projet et de pouvoir créer une branche évoluant en parallèle de la principale. Cela permet de discuter des changements effectués ou de les modifier avant de les merge à la branche master.
+
+Changement
+
+20 - 
 
 # AppWebDep
 
