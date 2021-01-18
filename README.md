@@ -1,3 +1,30 @@
+4 - vercel -v
+
+5 - npm install -g @angular/cli
+    ng new appWebDep
+
+6 - vercel
+
+7 - vercel list
+
+8 - vercel log https://app-web-dep.vercel.app/
+
+9 - vercel inspect https://app-web-dep.vercel.app/
+
+10 - Les variables d'environnements permettent de stocker des informations utilisables par plusieurs processus simultanément à l'extérieur d'une application
+
+11 - vercel env add plain ENV1 production
+
+12 - vercel env ls
+
+13 - Les secrets permettent d'utiliser du contenu crypté dans des variables d'environnement
+
+15 - vercel secrets add env_secret2 null
+
+16 - Les 3 environnements sont Production, Preview et Development. Avoir plusieurs environnements permet de faire des tests sur les environnements de développement et de preview sans toucher à la version de production fournie aux utilisateurs du site.
+
+
+
 # AppWebDep
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.7.
