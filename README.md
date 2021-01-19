@@ -31,7 +31,16 @@
 
 Changement
 
-20 - 
+Vercel déploie la pull request automatiquement dans un environnement de preview
+
+20 - Vercel déploie la pull request automatiquement dans un environnement de production
+
+21 - L'environnement de production correspond à la branche master.
+     L'intérêt de faire des pulls request permet de faire des version temporaire de l'application et de tester des configurations.
+     A chaque nouvelle feature on créé une branche dans laquelle on développe la nouvelle feature, une fois qu'elle est prête on la merge sur la branche principale pour l'ajouter au projet.
+
+22 - Le serverless est un modèle de développement qui permet aux développeurs de créer et d'exécuter des applications sans avoir à gérer des serveurs. Un fournisseur de cloud s'occupe de gérer l'infrastructure serveur et le développeur n'a plus qu'à envoyer le code dans des conteneurs pour déployer l'application. Les ressources serveurs disponibles sont aussi allouées dynamiquement. Ce genre d'app permet de au développeur de se concentrer sur le développement de nouvelles fonctionnalités en priorité.
+
 
 # AppWebDep
 
